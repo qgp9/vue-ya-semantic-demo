@@ -1,4 +1,4 @@
 #!/bin/bash
 
-surge -p dist/ -d http://decisive-ship.surge.sh
-
+netlify deploy
+surge -p dist/ -d http://vue-ya-semantic.surge.sh
