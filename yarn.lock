@@ -5883,6 +5883,10 @@ vue-ya-semantic-elements@^0.0.4:
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/vue-ya-semantic-elements/-/vue-ya-semantic-elements-0.0.4.tgz#04e34b778702ca015a5dfcedf8044eb3a55968c7"
 
+vue-ya-semantic-modal@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/vue-ya-semantic-modal/-/vue-ya-semantic-modal-0.0.2.tgz#03c6db47ee60a1702aa79bfb68f3220a9dc3bdde"
+
 vue@^2.3.3:
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.4.1.tgz#76e0b8eee614613532216b7bfe784e0b5695b160"

@@ -9,7 +9,7 @@
     <div class="header">Select a Photo</div>
     <div class="image content">
       <div class="ui medium image">
-        <img src="http://semantic-ui.com/images/avatar2/large/rachel.png"/>
+        <img src="http://i.imgur.com/JoeKDOC.png"/>
       </div>
       <div class="description">
         <div class="ui header">Default Profile Image</div>
